@@ -33,3 +33,6 @@ set backupdir=c:\dev\temp\vim-bak
 
 "move swap files
 set dir=c:\dev\temp\vim-swap
+
+"move undo files
+set undodir=c:\dev\temp\vim-undo
