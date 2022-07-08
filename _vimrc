@@ -36,3 +36,10 @@ set dir=c:\dev\temp\vim-swap
 
 "move undo files
 set undodir=c:\dev\temp\vim-undo
+
+"set horizontal and vertical scroll
+set scrolloff=10
+set sidescrolloff=10
+
+
+
